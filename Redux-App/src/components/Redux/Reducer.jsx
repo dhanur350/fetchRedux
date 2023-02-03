@@ -1,6 +1,6 @@
 import { ADD_TO_CART, REMOVE_FROM_CART } from "./Case";
 export const cartData = (data = [],action) => {
-  // console.log(action);
+  console.log("reducer",action);
   switch (action.type) {
     case ADD_TO_CART:
       //add to cart logic
