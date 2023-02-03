@@ -13,3 +13,5 @@ Created with CodeSandbox
 - [Redux Saga Example Github](https://github1s.com/redux-saga/redux-saga-beginner-tutorial/blob/HEAD/Counter.js)
 
 - [Redux Saga Example CodeSandbox](https://codesandbox.io/s/zkqzadrjz)
+
+- [API Show via Simple REDUX](https://codesandbox.io/s/api-show-via-redux-csg318?file=/src/App.js)
