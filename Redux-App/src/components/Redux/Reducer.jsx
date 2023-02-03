@@ -1,3 +1,3 @@
-export const cartData = (data = [], action) => {
+export const cartData = (action) => {
   console.log(action);
 };

@@ -1,7 +1,7 @@
 import { Fragment } from "react";
 import { useDispatch } from "react-redux";
 import { product } from "../Products/Products";
-import {addtoCart} from "../Redux/Action"
+import { addtoCart } from "../Redux/Action"
 
 function Show() {
   const dispatch = useDispatch();

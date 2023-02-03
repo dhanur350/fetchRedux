@@ -1,5 +1,4 @@
 export const addtoCart = (data) => {
   console.log("action called", data);
-  return { type: null
-  };
+  return { type: null};
 };
