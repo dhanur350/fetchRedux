@@ -3,7 +3,7 @@ import { addToCart,emptyCart,removeToCart } from '../Redux/Action';
 import { useDispatch } from 'react-redux'
 import {useSelector} from 'react-redux'
 import { productList } from '../Redux/ProductAction'; 
-import
+import jsonData from "../Data/Dummy.json"
 
 function Show() {
     const dispatch = useDispatch();
@@ -12,9 +12,9 @@ function Show() {
 
     return (
         <div>
-          <button onClick={() => dispatch(addToCart(product))}>Add To Cart</button>
+          <button onClick={() => dispatch(addToCart(jsonData))}>Add To Cart</button>
           <div>
-          <button onClick={() => dispatch(removeToCart(product.name))}>Remove from Cart</button>
+          <button onClick={() => dispatch(removeToCart(jsonData.name))}>Remove from Cart</button>
           </div>
           <div>
           <button onClick={() => dispatch(emptyCart())}>Empty Cart</button>
