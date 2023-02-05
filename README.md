@@ -20,3 +20,5 @@ Some codesandbox links <!--Here-->
 - [Redux Saga Example CodeSandbox](https://codesandbox.io/s/zkqzadrjz)
 
 - [API Show via Simple REDUX](https://codesandbox.io/s/api-show-via-redux-csg318?file=/src/App.js)
+
+- [Redux Saga Register](https://codesandbox.io/s/redux-action-via-switch-jpnvxx)
