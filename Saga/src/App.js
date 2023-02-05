@@ -1,9 +1,10 @@
 import "./styles.css";
+import Show from "./components/Show/Show";
 
 export default function App() {
   return (
     <div className="App">
-      <h1>Redux</h1>
+      <Show/>
     </div>
   );
 }

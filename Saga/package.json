@@ -1,5 +1,5 @@
 {
-    "name": "redux-app1",
+    "name": "saga",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
