@@ -1,8 +1,6 @@
 
-function ProductSaga() {
-  return (
-    <div>App</div>
-  )
+function* ProductSaga() {
+  
 }
 
 export default ProductSaga
