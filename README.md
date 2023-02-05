@@ -1,6 +1,11 @@
 # fetchRedux
 Some codesandbox links <!--Here-->
 
+# function* 
+- function* are the generators functions, generators function are mostly used when async and await operations gets completed then only these generators functions returns the answers in to us, that's why we use generators functions.
+
+- Using generators functions like functions* also requires the yield to be used  
+
 # CodeSandBox Links
 - [Redux Table via API](https://codesandbox.io/s/react-redux-tableshow-via-api-wrx6sr)
 
