@@ -1,6 +1,8 @@
+import Show from "./components/Show/Show";
+
 function App() {
   return (
-    <div>App</div>
+    <Show/>
   )
 }
 
